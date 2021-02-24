@@ -1,0 +1,15 @@
+" Directorio de plugins
+call plug#begin('~/.local/share/nvim/plugged')
+
+" Aquí irán los plugins a instalar
+
+call plug#end()
+
+" Luego de esta línea puedes agregar tus configuraciones y mappings
+
+Plug 'joshdick/onedark.vim'
+
+...
+
+set termguicolors  " Activa true colors en la terminal
+

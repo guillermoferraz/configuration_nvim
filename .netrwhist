@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/h19arch/mount/web_RCristal/radiocristal/src'
+let g:netrw_dirhist_6='/home/h19arch/mount/myDevelopment/web_RCristal/radiocristal/src'
+let g:netrw_dirhist_5='/home/h19arch/mount/myDevelopment/web_RCristal/radiocristal/src/components'
+let g:netrw_dirhist_4='/home/h19arch/mount/myDevelopment/web_RCristal/rc_app_front/app-front/src'
+let g:netrw_dirhist_3='/home/h19arch/mount/myDevelopment/web_RCristal/rc_app_front/app-front/src/components'
+let g:netrw_dirhist_2='/home/h19arch/mount/myDevelopment/web_RCristal/rc_app_front/app-front/src'
+let g:netrw_dirhist_1='/home/h19arch/mount/myDevelopment/web_RCristal/rc_app_front/app-front/src/components'
+let g:netrw_dirhist_0='/home/h19arch/mount/myDevelopment/web_RCristal/rc_app_front/app-front/src'
+let g:netrw_dirhist_9='/home/h19arch/mount/myDevelopment/web_RCristal/rc_app_front/app-front/src/components'
+let g:netrw_dirhist_8='/home/h19arch/mount/myDevelopment/web_RCristal/rc_app_front/app-front/src/components/img'
